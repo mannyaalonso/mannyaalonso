@@ -10,7 +10,7 @@ I remember my first line of code, print('Hello World'), I don't think I'll ever 
 * ✉️  You can contact me at [mannyaalonso@gmail.com](mailto:mannyaalonso@gmail.com)
 * 🚀  I'm currently working on [Swish Sesh](https://swish-sesh.herokuapp.com/)
 * 🤝  I'm open to collaborating on any type of project
-* 🧠  I'm learning Python
+* 🧠  I'm working on Data Structures & Algorithms
 
 ### Skills
 
