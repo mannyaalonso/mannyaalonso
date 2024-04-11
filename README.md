@@ -6,11 +6,9 @@ Software Engineer
 
 I remember my first line of code, print('Hello World'), I don't think I'll ever forget that feeling of creating something inside a console. Fast forward to today, and I've migrated from the console to full-fledged frontend applications. I like to code things from scratch, and enjoy bringing ideas to life in the browser.
 
-* 🌍  I'm based in Orlando, FL
+* 🌍  Software Engineer @ The Georgia Tech Foundation
 * ✉️  You can contact me at [mannyaalonso@gmail.com](mailto:mannyaalonso@gmail.com)
-* 🚀  I'm currently working at [Georgia Tech Foundation]([https://swish-sesh.herokuapp.com/](https://www.gtf.gatech.edu))
 * 🤝  I'm open to collaborating on any type of project
-* 🧠  I'm working on Data Structures & Algorithms
 
 ### Skills
 
