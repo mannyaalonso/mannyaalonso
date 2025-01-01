@@ -4,7 +4,27 @@ Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Software Engineer
 -----------------
 
-I remember my first line of code, print('Hello World'), I don't think I'll ever forget that feeling of creating something inside a console. Fast forward to today, and I've migrated from the console to full-fledged frontend applications. I like to code things from scratch, and enjoy bringing ideas to life in the browser.
+🚀 About Me
+
+Hi there! I'm Manuel Alonso, a passionate Software Engineer with a focus on front-end development using JavaScript and React. I specialize in building user-centric, dynamic web applications that seamlessly integrate with cutting-edge technologies to deliver exceptional digital experiences. Whether it’s enhancing donor engagement, optimizing business operations, or building robust e-commerce platforms, I thrive on turning complex challenges into simple, impactful solutions.
+
+🌐 What I Do
+
+Innovative Web Development: I leverage my expertise in React, JavaScript, and Tailwind CSS to create responsive, high-performance web applications. From interactive user interfaces to backend system integration, I focus on building solutions that are as efficient as they are visually engaging.
+
+Problem Solving & Optimization: My experience spans automating processes, improving user experiences, and optimizing both front-end and back-end systems. I enjoy tackling intricate technical challenges and transforming them into seamless, user-friendly digital products.
+
+Collaborative Approach: I believe great things happen when teams work together. I collaborate closely with designers, developers, and stakeholders to ensure projects meet both user needs and business objectives. My commitment to cross-functional collaboration helps drive innovation and achieve shared goals.
+
+Continuous Growth: The tech world moves fast, and I stay ahead by continuously expanding my skill set. Whether through formal training or personal projects, I’m always exploring new tools, frameworks, and trends to keep delivering top-tier solutions.
+
+🔍 Why Me?
+
+I bring a combination of technical expertise, creativity, and a user-first mindset to every project. With a strong background in React, .NET, JavaScript, and SQL, as well as a keen eye for UI/UX design, I’m dedicated to delivering solutions that not only meet your requirements but exceed expectations.
+
+✉️ Let’s Connect
+
+I’m always open to new opportunities and collaborations. Whether you’re looking for a web developer, have a question about web technologies, or want to discuss a potential project, feel free to reach out. Let’s build something amazing together!
 
 * 🌍  Software Engineer @ The Georgia Tech Foundation
 * ✉️  You can contact me at [mannyaalonso@gmail.com](mailto:mannyaalonso@gmail.com)
